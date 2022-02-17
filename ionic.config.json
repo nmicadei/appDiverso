@@ -1,0 +1,7 @@
+{
+  "name": "appDiverso",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
